@@ -55,6 +55,42 @@ All notes are saved automatically and restored per page.
 
 ---
 
+## 🧑‍💻 Feel free to improve it!
+
+This project is intentionally simple and open-ended.  
+If you’re a developer and want to contribute, extend or remix this extension — **go for it!** ✨
+
+Feel free to:
+
+- Fork this repo
+- Add your own spin or improvements
+- Fix anything clunky or make it smarter
+- Translate it, restyle it, or add new features
+
+If you do something cool, **let me know** — I'd love to feature your version or merge improvements.
+
+---
+
+## 💡 Feature ideas & enhancements
+
+Here are some ideas for future updates or community contributions:
+
+- 🧠 **Per-note colors**: choose color per sticky
+- 📆 **Reminders / due dates**: be notified for time-based notes
+- 🧲 **Snap to grid** or alignment guides
+- 📥 **Export / import** notes across devices
+- 💻 **Cloud sync** across multiple Chrome profiles
+- 🔒 **Private / locked notes** with password toggle
+- ⌨️ **Keyboard shortcuts** to add/edit/delete notes
+- 🗺️ **Global dashboard**: view all memos from all URLs
+- 🌍 **Per-domain templates** (ex: meeting prep for Zoom, daily goals on Gmail)
+- 🖼️ **Custom fonts, emojis, or images** in notes
+- 📦 **PWA version** for outside-the-browser usage
+
+> Feel free to open an issue or a PR if you want to discuss any of these!
+
+---
+
 ## 👨‍💻 Author
 
 **Olivier Ben**  
