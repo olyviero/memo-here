@@ -3,7 +3,7 @@
   "author": "Olyvier <hello@olyvier.com> (https://olyvier.com)",
   "name": "Stickify",
   "version": "1.0",
-  "description": "Add persistent sticky memos on any webpages",
+  "description": "Quickly add floating notes to any website. Drag, resize, edit, and save your memos instantly.",
   "permissions": ["storage", "activeTab", "scripting"],
   "action": {
     "default_title": "Add a memo"
