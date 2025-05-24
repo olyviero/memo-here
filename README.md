@@ -20,7 +20,7 @@ All notes are saved automatically and restored per page.
 
 ## 📸 Screenshot
 
-<img src="screenshot.jpg" alt="Sticky Notes on Page – Screenshot" width="600" />
+<img src="screenshots/screenshot-1.jpg" alt="Sticky Notes on Page – Screenshot" width="600" />
 
 ---
 
