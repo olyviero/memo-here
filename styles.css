@@ -1,0 +1,50 @@
+.memo-wrapper {
+  position: absolute;
+  z-index: 999999;
+  width: 200px;
+  height: 150px;
+  box-sizing: border-box;
+  /* background: #fff8b0; */
+  border: 1px solid #d6c700;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.memo {
+  width: 100%;
+  height: 100%;
+  border: none;
+  resize: none;
+  padding: 8px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 14px;
+  background: transparent;
+  outline: none;
+}
+
+.memo-delete {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: red;
+  border: none;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.memo-resize {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 14px;
+  height: 14px;
+  background: #aaa;
+  cursor: se-resize;
+}
