@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "author": "Olyvier <hello@olyvier.com> (https://olyvier.com)",
-  "name": "Memo Here",
+  "name": "Stickify",
   "version": "1.0",
-  "description": "Add persistent memos on any webpages",
+  "description": "Add persistent sticky memos on any webpages",
   "permissions": ["storage", "activeTab", "scripting"],
   "action": {
     "default_title": "Add a memo"

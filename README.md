@@ -1,4 +1,4 @@
-# 📝 Sticky Notes on Page – Chrome Extension
+# 📝 Stickify – Chrome Extension
 
 **Sticky Notes on Page** is a lightweight Chrome extension that lets you add editable, draggable, and resizable post-it-style notes to any website.  
 All notes are saved automatically and restored per page.
