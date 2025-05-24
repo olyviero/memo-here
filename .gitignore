@@ -1,3 +1,4 @@
 TODO.md
 Stickify.zip
-screenshots
+screenshots/*
+!screenshots/screenshot-1.jpg
