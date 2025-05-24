@@ -41,7 +41,7 @@ All notes are saved automatically and restored per page.
 - Start typing – changes are saved automatically
 - Drag to move the note wherever you want
 - Use the corner handle to resize it
-- Click the 🗑️ button to delete a note
+- Click the ❌ button to delete a note
 - Visit the **Options page** to set a default background color
 
 ---
